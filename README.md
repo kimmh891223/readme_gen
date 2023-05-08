@@ -9,5 +9,9 @@
 - It has a table of content built into the app.
 - It give detailed information about the license of your choosing.
 
+## Base Code
+- gachoi06
+- Xandromus
+
 ## Contributor
 - kimmh891223
