@@ -10,8 +10,9 @@
 - It give detailed information about the license of your choosing.
 
 ## Base Code
+- https://github.com/coding-boot-camp/potential-enigma
+
+## Contributors
 - gachoi06
 - Xandromus
-
-## Contributor
 - kimmh891223
